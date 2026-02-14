@@ -45,7 +45,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Cristina"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -109,7 +109,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: "https://res.cloudinary.com/dwqnd2f9j/video/upload/v1771027033/ALEX_BOTEA_TU_MIREAS%C4%82_EU_MIRE_NEW_2024_xsu9sa.mp3", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
@@ -146,7 +146,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your URL here
+    musicUrl: "https://res.cloudinary.com/dwqnd2f9j/video/upload/v1771027033/ALEX_BOTEA_TU_MIREAS%C4%82_EU_MIRE_NEW_2024_xsu9sa.mp3", // Paste your URL here
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
